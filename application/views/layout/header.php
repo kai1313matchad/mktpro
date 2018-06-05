@@ -52,7 +52,7 @@
 		                         </a>
 		                         <ul>
 		                            <li><a href="<?php echo base_url('Master/Master/master_bb_type')?>">Jenis Reklame</a></li>
-		                            <li><a href="signup.html">Kode Lokasi</a></li>
+		                            <li><a href="<?php echo base_url('Master/Master/master_location_code')?>">Kode Lokasi</a></li>
 		                        </ul>
 		                    </li>
 		                </ul>
